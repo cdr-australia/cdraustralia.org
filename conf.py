@@ -12,4 +12,3 @@ source_suffix = {
     '.rst': 'restructuredtext',
     '.md': 'markdown',
 }
-root_doc = 'docs/index'
